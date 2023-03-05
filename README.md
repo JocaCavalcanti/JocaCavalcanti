@@ -4,6 +4,9 @@
 
 - ⚡ Fatos Curiosos: **Gosto muito de fazer academia**
 
+![João Marcelo github stats](https://github-readme-stats.vercel.app/api?username=tolentinoel&theme=radical&layout=compact)
+
+
 <h3 align="left">Connect with me:</h3>
 <div> 
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

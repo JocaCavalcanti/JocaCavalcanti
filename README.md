@@ -1,4 +1,4 @@
-![Legenda](https://cdn.discordapp.com/attachments/911763261836374066/1081756553880801390/banner_6.png)
+![MasterHead](https://cdn.discordapp.com/attachments/911763261836374066/1081756553880801390/banner_6.png)
 
 - 🌱 No momento estou aprendendo **JavaScript, React Native e Swift**
 

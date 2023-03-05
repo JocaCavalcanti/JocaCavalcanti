@@ -1,4 +1,4 @@
-![Legenda](https://cdn.discordapp.com/attachments/748319739012579346/1081749636324270200/desktop-wallpaper-19-pixel-art-that-will-make-your-retro-retro-lofi.jpg)
+![Legenda](https://cdn.discordapp.com/attachments/911763261836374066/1081755326493241434/banner_5.png)
 
 - 🌱 No momento estou aprendendo **JavaScript, React Native e Swift**
 

@@ -1,8 +1,8 @@
 ![MasterHead](https://cdn.discordapp.com/attachments/911763261836374066/1081756553880801390/banner_6.png)
 <p align="center">Sou estudante do segundo periodo de Sistemas para Internet🎓 da Universidade Catolica de Pernabuco 🏛. Gosto muito de explorar novas tecnologias e aprender sobre elas 💡. atualmente estou estudando muito sobre desenvolvimento web e Mobile 👨‍💻.</p>
 - 🌱 No momento estou aprendendo **JavaScript, React Native e Swift**
-
-- ⚡ Fatos Curiosos: **Gosto muito de fazer academia**
+ 
+- ⚡ Fatos Curiosos: Gosto muito de fazer academia
 
 ![João Marcelo github stats](https://github-readme-stats.vercel.app/api?username=JocaCavalcanti&theme=radical&layout=compact)
 

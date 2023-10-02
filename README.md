@@ -10,7 +10,7 @@ I'm a third-year student of Internet Systems🎓 at the Catholic University of P
 
 * 🌍  I'm based in Recife - PE
 * ✉️  You can contact me at [joaomcavalcanti.jmcm@gmail.com](mailto:joaomcavalcanti.jmcm@gmail.com)
-* 🚀  I'm currently working on [Make professional website](http://https://clinica-ativamente.vercel.app)
+* 🚀  I'm currently working on [Make professional website](https://clinica-ativamente.vercel.app)
 * 🧠  I'm learning I'm learning | Java | Node.js | React.js | C# | PostgreSQL | TypeScript
 * ⚡  I really like going to the gym and learning new things :D
 

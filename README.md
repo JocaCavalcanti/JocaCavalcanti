@@ -1,38 +1,42 @@
-![MasterHead](https://cdn.discordapp.com/attachments/911763261836374066/1081756553880801390/banner_6.png)
-
-Hi 👋 My name is João Marcelo
-=============================
-
-Front-End Web Developer
------------------------
-
-I'm a third-year student of Internet Systems🎓 at the Catholic University of Pernabuco🏛. I really like exploring new technologies and learning about them 💡. I'm currently studying a lot about web and mobile development 👨‍💻.
-
-* 🌍  I'm based in Recife - PE
-* ✉️  You can contact me at [joaomcavalcanti.jmcm@gmail.com](mailto:joaomcavalcanti.jmcm@gmail.com)
-* 🚀  I'm currently working on [Make professional website](https://clinica-ativamente.vercel.app)
-* 🧠  I'm learning I'm learning | Java | Node.js | React.js | C# | PostgreSQL | TypeScript
-* ⚡  I really like going to the gym and learning new things :D
-
-### Skills
-
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<h1 align="center">👋 Hi there! I'm João Marcelo</h1>
+<p align="center">
+  Front-End Developer
 </p>
 
+---
 
-### Socials
+## 🚀 About Me
 
-<p align="left"> <a href="https://www.github.com/JocaCavalcanti" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/joão-marcelo-cavalcanti-monteiro-2b7027251/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+🎓  University degree in **Web Systems** (Graduating Dec/2024 – Universidade Católica de Pernambuco)  
+📚 On the path to becoming a Full Stack Developer, learning back-end technologies like Node.js and PostgreSQL
 
-### Badges
+I'm committed to writing clean, maintainable code, following best practices like componentization, abstraction, and performance-driven development. I value good user experience and modern UI patterns.
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/JocaCavalcanti"><img src="https://github-readme-stats.vercel.app/api?username=JocaCavalcanti&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="JocaCavalcanti's GitHub stats" /></a>
+## 🛠️ Technologies I Work With
 
-![Snake animation](https://github.com/JocaCavalcanti/JocaCavalcanti/blob/output/github-contribution-grid-snake.svg)
+<div style="display: flex; flex-wrap: wrap;">
+  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
+![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?logo=chakraui&logoColor=white&style=flat)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat)
+
+</div>
+
+---
 
 
+## 🌐 Let's Connect
 
+- 📬 [Email me](mailto:joaomcavalcanti.jmcm@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-marcelo-cavalcanti-monteiro-2b7027251/)
+
+---

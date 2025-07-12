@@ -3,6 +3,10 @@
   Front-End Developer
 </p>
 
+<p align="center">
+  <img src="./assets/banner.webp" alt="Space Banner" width="100%" />
+</p>
+
 ---
 
 ## 🚀 About Me
